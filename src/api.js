@@ -3,7 +3,7 @@ import axios from 'axios';
 
 // Define la URL base de nuestra API del backend.
 // Esto nos permite cambiar fácilmente la dirección del servidor en un solo lugar.
-const API_URL = 'https://crudproyect-production.up.railway.app';
+const API_URL = 'https://crudproyect-production.up.railway.app/api';
 
 // Crea una instancia de axios con una configuración base.
 const api = axios.create({
