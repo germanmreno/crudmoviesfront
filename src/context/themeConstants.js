@@ -1,0 +1,67 @@
+export const THEMES = {
+  'dark-gold': {
+    id: 'dark-gold',
+    name: 'Dorado Oscuro',
+    colors: {
+      primary: '#ffd700',
+      secondary: '#ff6b6b',
+      background: '#1a1a1a',
+      surface: '#242424',
+      text: '#ffffff',
+      textSecondary: '#a0a0a0',
+      border: '#333333',
+    },
+  },
+  'dark-blue': {
+    id: 'dark-blue',
+    name: 'Azul Nocturno',
+    colors: {
+      primary: '#4ecdc4',
+      secondary: '#45b7d1',
+      background: '#1a1f2e',
+      surface: '#242936',
+      text: '#ffffff',
+      textSecondary: '#a0a0a0',
+      border: '#2a3142',
+    },
+  },
+  'dark-purple': {
+    id: 'dark-purple',
+    name: 'Púrpura Místico',
+    colors: {
+      primary: '#9b59b6',
+      secondary: '#e74c3c',
+      background: '#2c1a33',
+      surface: '#382440',
+      text: '#ffffff',
+      textSecondary: '#a0a0a0',
+      border: '#4a2d54',
+    },
+  },
+  'dark-green': {
+    id: 'dark-green',
+    name: 'Verde Esmeralda',
+    colors: {
+      primary: '#2ecc71',
+      secondary: '#f39c12',
+      background: '#1a2e1a',
+      surface: '#243024',
+      text: '#ffffff',
+      textSecondary: '#a0a0a0',
+      border: '#2d4a2d',
+    },
+  },
+  'dark-red': {
+    id: 'dark-red',
+    name: 'Rojo Cinematográfico',
+    colors: {
+      primary: '#e74c3c',
+      secondary: '#f1c40f',
+      background: '#2e1a1a',
+      surface: '#3d2424',
+      text: '#ffffff',
+      textSecondary: '#a0a0a0',
+      border: '#4a2d2d',
+    },
+  },
+};
